@@ -57,7 +57,7 @@ Every step should take no more than 1--2, hours and significantly less if you ha
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=Science-Reproducibility&template_name=bsw_bash&owner=%40me&name=test1_bsw_bash&description=My+clone+repository&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=Science-Reproducibility&template_name=version-control-systems&owner=%40me&name=version-control-systems&description=My+clone+repository&visibility=public)
 
 
 1. Right-click **Start course** and open the link in a new tab.
