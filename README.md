@@ -9,8 +9,6 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# Introduction to Version Control Systems
-
 
 </header>
 
