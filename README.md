@@ -9,9 +9,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+# Introduction to Version Control Systems
 
-_TBD-course-description_
 
 </header>
 
@@ -24,19 +23,50 @@ _TBD-course-description_
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+# Introduction to Version Control Systems
 
-_Welcome to "TBD-course-name"! :wave:_
+Welcome to the Introduction to Version Control Systems course. 
+This course will be using GitHub and GitHub Skills templates, 
+I strongly suggest completing two GitHub skills courses before starting the course:
 
-TBD-step-1-information
+- [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- [Code with Codespace](https://github.com/skills/code-with-codespaces) (the first 3 steps are enough for this course)
 
-**What is _TBD-term-1_**: TBD-definition-1
+In this course you will:
+- learn what is Version Control System (VCS) 
+- practice using Git and GitHub
+- practice creating new branches, Pull Requests and merging them
+- practice working with other people on the same repository
+- learn about VCS for big data files
 
-### :keyboard: Activity: TBD-step-1-name
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+### Course format
+The entire course will have 4 parts or steps, each step will have multiple sections that will require reading short text or specific section from the external sources, watching a short video or practicing your knowledge in hands-on activities.
+Every step should take no more than 1--2, hours and significantly less if you have prior experience.
+
+## How to start this course
+
+<!-- For start course, run in JavaScript:
+'https://github.com/new?' + new URLSearchParams({
+  template_owner: 'Science-Reproducibility',
+  template_name: 'version-control-systems',
+  owner: '@me',
+  name: 'version-control-systems',
+  description: 'My clone repository',
+  visibility: 'public',
+}).toString()
+-->
+
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=Science-Reproducibility&template_name=bsw_bash&owner=%40me&name=test1_bsw_bash&description=My+clone+repository&visibility=public)
+
+
+1. Right-click **Start course** and open the link in a new tab.
+2. In the new tab, most of the prompts will automatically fill in for you.
+   - For owner, choose your personal account or an organization to host the repository.
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Scroll down and click the **Create repository** button at the bottom of the form.
+3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+
 
 <footer>
 
@@ -47,8 +77,10 @@ TBD-step-1-information
 
 ---
 
-Get help: [TBD-support](TBD-support-link) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Submit an issue](https://github.com/Science-Reproducibility/version-control-systems/issues)
 
-&copy; 2023 TBD-copyright-holder &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Work was founded by [BSSw Fellowship Program](https://bssw.io/pages/bssw-fellowship-program)
+
+[MIT License](https://gh.io/mit)
 
 </footer>
