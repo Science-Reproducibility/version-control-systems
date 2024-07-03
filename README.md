@@ -39,8 +39,12 @@ In this course you will:
 
 
 ### Course format
-The entire course will have 4 parts or steps, each step will have multiple sections that will require reading short text or specific section from the external sources, watching a short video or practicing your knowledge in hands-on activities.
-Every step should take no more than 1--2, hours and significantly less if you have prior experience.
+The entire course will have 4 parts/weeks, each part will have multiple sections that will require reading short text or specific section from the external sources, watching a short video or practicing your knowledge in hands-on activities.
+Every week should take no more than 1--2, hours and significantly less if you have prior experience.
+
+### BSSw Fellowship Program
+This course is a part of the [*Best practices for reproducibility and testing in scientific software* series](https://science-reproducibility.github.io/BSSw_course_page/), created for the [Better Scientific Software](https://bssw.io/pages/bssw-fellowship-program) (BSSw) Fellowship project.
+
 
 ## How to start this course
 
